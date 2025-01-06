@@ -14,12 +14,12 @@ A JavaFX-powered bookstore application designed to provide users with a browsing
 4. Development Environment: NetBeans IDE
 
 <div align="center">
-  <img src="./Login.png" width="150"/>
-  <img src="./AdminWelcome.png" width="150"/>
-  <img src="./AdminBooks.png" width="150"/>
-  <img src="./AdminCustomers.png" width="150"/>
-  <img src="./CustomerBooks.png" width="150"/>
-  <img src="./Receipt.png" width="150"/>
+  <img src="./Image1.png" width="150"/>
+  <img src="./Image2.png" width="150"/>
+  <img src="./Image3.png" width="150"/>
+  <img src="./Image4.png" width="150"/>
+  <img src="./Image5.png" width="150"/>
+  <img src="./Image6.png" width="150"/>
 </div>
 <br/>
 
