@@ -13,3 +13,14 @@ A JavaFX-powered bookstore application designed to provide users with a browsing
 3. UI Development: Scene Builder
 4. Development Environment: NetBeans IDE
 
+## Screenshots
+<div align="center">
+  <img src="./Login.png" width="150" />
+  <img src="./AdminWelcome.png" width="150" />
+  <img src="./AdminBooks.png" width="150" />
+  <img src="./AdminCustomers.png" width="150" />
+  <img src="./CustomerBooks.png" width="150" />
+  <img src="./Receipt.png" width="150" />
+</div>
+<br/>
+
