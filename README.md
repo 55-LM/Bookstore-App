@@ -14,7 +14,6 @@ A JavaFX-powered bookstore application designed to provide users with a browsing
 4. Development Environment: NetBeans IDE
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="./Image1.png" width="150" />
   <img src="./Image2.png" width="150" />
   <img src="./Image3.png" width="150" />
   <img src="./Image4.png" width="150" />
