@@ -16,9 +16,6 @@ A JavaFX-powered bookstore application designed to provide users with a browsing
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="./Image2.png" width="150" />
   <img src="./Image3.png" width="150" />
-  <img src="./Image4.png" width="150" />
-  <img src="./Image5.png" width="150" />
-  <img src="./Image6.png" width="150" />
 </div>
 <br/>
 
